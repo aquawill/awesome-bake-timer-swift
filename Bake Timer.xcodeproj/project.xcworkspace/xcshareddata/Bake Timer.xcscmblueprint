@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "76B263651F8FF202B7E95312D7E27E4F14525037",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "693799743DC4EC02DFA37833A086F67E81A9B8D4" : 9223372036854775807,
+    "76B263651F8FF202B7E95312D7E27E4F14525037" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "40EA010A-2F22-4EED-B9DB-F0AA6CE56A47",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "693799743DC4EC02DFA37833A086F67E81A9B8D4" : "..\/..\/Documents\/SDK_Test\/to%20do%20list%202",
+    "76B263651F8FF202B7E95312D7E27E4F14525037" : "baker-timer-master\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bake Timer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bake Timer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aquawill\/baker-timer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "693799743DC4EC02DFA37833A086F67E81A9B8D4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aquawill\/awesome-bake-timer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76B263651F8FF202B7E95312D7E27E4F14525037"
+    }
+  ]
+}
